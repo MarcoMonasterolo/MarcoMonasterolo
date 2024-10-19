@@ -3,7 +3,7 @@
  --------------
 | **My socials** |
 | ---------------- |
-| [![Telegram: Onlytegra](https://img.shields.io/badge/Telegram-@OnlyTegra-blue?logo=telegram&style=flat)](t.me/OnlyTegra) |
+| [![Telegram: Onlytegra](https://img.shields.io/badge/Telegram-@OnlyTegra-blue?logo=telegram&style=flat)](https://t.me/OnlyTegra) |
 | [![Steam: Tegra](https://img.shields.io/badge/Steam-Tegra-black?logo=steam&style=flat)](https://steamcommunity.com/id/realtegra/)|
 |[![Youtube: Tegra](https://img.shields.io/badge/YouTube-@OnlyTegra-darkred?logo=youtube&style=flat)](https://www.youtube.com/@OnlyTegra)|
 |[![Discord: Tegra](https://img.shields.io/badge/Discord-@OnlyTegra-7289DA?logo=discord&style=flat)](https://discord.gg/xv2Pz32sxE)|
