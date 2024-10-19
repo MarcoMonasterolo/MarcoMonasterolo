@@ -1,6 +1,6 @@
 
- ### Welcome to my profile 👺 ###
- --------------
+<img src="1019.gif" alt="Descrizione della GIF" width="50%" height="30%">
+
 | **My socials** |
 | ---------------- |
 | [![Telegram: Onlytegra](https://img.shields.io/badge/Telegram-@OnlyTegra-blue?logo=telegram&style=flat)](https://t.me/OnlyTegra) |
