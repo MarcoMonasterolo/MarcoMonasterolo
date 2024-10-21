@@ -1,4 +1,4 @@
-<img src="tenor.gif" alt="Gif">
+<img src="tenor.gif" alt="Gif" width="1500">
 <img src="Benvenutofinal.gif" alt="Descrizione della GIF" width="450" height="250">
 
 | **Generale** |
@@ -40,5 +40,5 @@
 |[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)](#)|
 |[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white)](#)|
 
-<img src="tenor.gif" alt="Gif">
+<img src="tenor.gif" alt="Gif" width="1500" >
 
