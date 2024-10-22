@@ -10,11 +10,11 @@
 | Se vuoi donare: [![](https://img.shields.io/badge/-@NoTlamucci-darkblue?style=flat-square&logo=Paypal&logoColor=blue&link=https://https://paypal.me/NoTlamucci?country.x=IT&locale.x=it_IT)](https://paypal.me/NoTlamucci?country.x=IT&locale.x=it_IT)|
 
 ### Info 🔗
-| **I miei social** | **Cosa Uso:** |**Che linguaggio sto studiando**|  **Il mio repo migliore** | 
+| **I miei social** | **IDE che uso:** |**Che linguaggio sto studiando**|  **Il mio repo migliore** | 
 | ---------------- | ------------------| ----------|------------|
 | [![Telegram: Onlytegra](https://img.shields.io/badge/Telegram-@OnlyTegra-blue?logo=telegram&style=flat)](https://t.me/OnlyTegra) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&style=flat) | [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) | ![Whatsapp Bot (Broken)](https://img.shields.io/badge/GitHub-TegraBot-181717?logo=github&style=flat")|
 | [![Steam](https://img.shields.io/badge/Tegra-%23000000.svg?logo=steam&logoColor=white)](#)| ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&style=flat) |[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)|
-|[![Youtube: Tegra](https://img.shields.io/badge/YouTube-@OnlyTegra-darkred?logo=youtube&style=flat)](https://www.youtube.com/@OnlyTegra)|
+|[![Youtube: Tegra](https://img.shields.io/badge/YouTube-@OnlyTegra-darkred?logo=youtube&style=flat)](https://www.youtube.com/@OnlyTegra)| [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#) | [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) |
 |[![Discord: Tegra](https://img.shields.io/badge/Discord-@OnlyTegra-7289DA?logo=discord&style=flat)](https://discord.gg/xv2Pz32sxE)|
 |[![Epic Games](https://img.shields.io/badge/Unreal_Tegra-%23313131.svg?logo=epicgames&logoColor=white)](#)|
 
