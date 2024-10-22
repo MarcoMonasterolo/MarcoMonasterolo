@@ -1,4 +1,5 @@
 <img src="tenor.gif" alt="Gif" width="1500">
+<img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 <img src="Benvenutofinal.gif" alt="Descrizione della GIF" width="450" height="250">
 
 | **Generale** |
@@ -40,5 +41,8 @@
 |[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)](#)|
 |[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white)](#)|
 
+![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
 <img src="tenor.gif" alt="Gif" width="1500" >
+
 
