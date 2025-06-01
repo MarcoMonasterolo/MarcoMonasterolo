@@ -1,21 +1,16 @@
-<img src="tenor.gif" alt="Gif" width="1500">
 <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-<img src="Benvenutofinal.gif" alt="Descrizione della GIF" width="450" height="250">
 
 | **Generale** |
 | --------------- |
 | Seguimi se ti va:   [![GitHub @RealTegra](https://img.shields.io/github/followers/RealTegra?label=follow&style=social)](https://github.com/Realtegra)|
-| Sto studiando Informatica a [*I.I.S G. Vallauri*](http://www.vallauri.edu/public/ita/pagina.asp) |
-| Il mio sito web (Work in progress): [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)|
-| Se vuoi donare: [![](https://img.shields.io/badge/-@NoTlamucci-darkblue?style=flat-square&logo=Paypal&logoColor=blue&link=https://https://paypal.me/NoTlamucci?country.x=IT&locale.x=it_IT)](https://paypal.me/NoTlamucci?country.x=IT&locale.x=it_IT)|
-
+| Sto studiando Informatica al [*I.I.S G. Vallauri*](http://www.vallauri.edu/public/ita/pagina.asp) |
 ### Info 🔗
-| **I miei social** | **IDE che uso:** |**Che linguaggio sto studiando**|  **Il mio repo migliore** | 
-| ---------------- | ------------------| ----------|------------|
-| [![Telegram: Onlytegra](https://img.shields.io/badge/Telegram-@OnlyTegra-blue?logo=telegram&style=flat)](https://t.me/OnlyTegra) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&style=flat) | [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) | ![Whatsapp Bot (Broken)](https://img.shields.io/badge/GitHub-TegraBot-181717?logo=github&style=flat")|
+| **I miei social** | **IDE che uso:** |**Che linguaggio sto studiando**|
+| ---------------- | ------------------| ----------|
+| [![Telegram: Onlytegra](https://img.shields.io/badge/Telegram-@OnlyTegra-blue?logo=telegram&style=flat)](https://t.me/OnlyTegra) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&style=flat) | [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) 
 | [![Steam](https://img.shields.io/badge/Tegra-%23000000.svg?logo=steam&logoColor=white)](#)| ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&style=flat) |[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)|
-|[![Youtube: Tegra](https://img.shields.io/badge/YouTube-@OnlyTegra-darkred?logo=youtube&style=flat)](https://www.youtube.com/@OnlyTegra)| [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#) | [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) |
-|[![Discord: Tegra](https://img.shields.io/badge/Discord-@OnlyTegra-7289DA?logo=discord&style=flat)](https://discord.gg/xv2Pz32sxE)|
+|[![Youtube: Tegra](https://img.shields.io/badge/YouTube-@OnlyTegra-darkred?logo=youtube&style=flat)](https://www.youtube.com/@OnlyTegra)| [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#) |  [![C++](https://img.shields.io/badge/C++-00529C?logo=c&logoColor=white)](#) |
+|[![Discord: Tegra](https://img.shields.io/badge/Discord-@OnlyTegra-7289DA?logo=discord&style=flat)](https://discord.gg/xv2Pz32sxE)| |
 |[![Epic Games](https://img.shields.io/badge/Unreal_Tegra-%23313131.svg?logo=epicgames&logoColor=white)](#)|
 
 ### Computer 🖥️
@@ -30,19 +25,5 @@
 ### Giochi 🎮
 | **Game Engine che sto imparando ad usare:**|
 |---------------------------------------------|
-| [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#) |
 | [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) |
-
-### Grafica ✒️
-| **Software che uso**|
-|---------------------|
-| [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) |
-|[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)|
-|[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)](#)|
-|[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=Adobe%20Premiere%20Pro&logoColor=white)](#)|
-
-![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
-
-<img src="tenor.gif" alt="Gif" width="1500" >
-
 
