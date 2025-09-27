@@ -2,7 +2,7 @@
 
 | **Generale** |
 | --------------- |
-| Seguimi se ti va:   [![GitHub @RealTegra](https://img.shields.io/github/followers/MarcoMonasterolo?label=follow&style=social)](https://github.com/MarcoMonasterolo)|
+| Seguimi se ti va:   [![GitHub @RealTegra](https://img.shields.io/github/followers/OnlyTegra?label=follow&style=social)](https://github.com/OnlyTegra)|
 | Sto studiando Informatica al [*I.I.S G. Vallauri*](http://www.vallauri.edu/public/ita/pagina.asp) |
 ### Info 🔗
 | **I miei social** | **IDE che uso:** |**Che linguaggio sto studiando**|
